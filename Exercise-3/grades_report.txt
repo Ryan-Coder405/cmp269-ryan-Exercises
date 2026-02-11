@@ -1,0 +1,4 @@
+Student: [Millie_Sanchez]   | Average: [82.00].
+Student: [Joyce_Choice]     | Average: [85.00].
+Student: [Dorothy_Annez]    | Average: [87.00].
+Student: [Sal_Demes]        | Average: [63.33].
